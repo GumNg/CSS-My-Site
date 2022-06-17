@@ -1,4 +1,10 @@
+body {
+    margin: 0;
+}
 
+h1 {
+    margin-top: 0;
+}
 .name {
     background-color: #E9EFC0;
 }
