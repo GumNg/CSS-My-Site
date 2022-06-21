@@ -40,7 +40,22 @@ h3 {
   height: 200px;
   width: 200px;
 }
+*/
+.profile-p {
+  max-height: 100%;
+  max-width: 200px;
+}
 
+.overthinking {
+    max-height: 100%;
+    max-width: 150px;
+}
+
+.weightlifting {
+    max-height: 100%;
+    max-width: 150px;
+}
+/*
 .bottom-container {
   background-color: #83bd75;
   height: 200px;
@@ -48,7 +63,4 @@ h3 {
 }
 */
 
-.profile-p {
-  max-height: 100%;
-  max-width: 150px;
-}
+
