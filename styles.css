@@ -9,6 +9,18 @@ h1 {
   font-family: "Sacramento", cursive;
 }
 
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
 h2 {
   font-family: "Montserrat", sans-serif;
 }
@@ -36,14 +48,7 @@ h3 {
 }
 */
 
-.top-cloud {
-  position: absolute;
-  right: 300px;
-  top: 50px;
-}
-
-.bottom-cloud {
-  position: absolute;
-  left: 300px;
-  bottom: 300px;
+.profile-p {
+  max-height: 100%;
+  max-width: 150px;
 }
