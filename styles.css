@@ -28,16 +28,18 @@ h2 {
   font-weight: normal;
 }
 
-h1, h2 {
-    color: #66BFBF;
+h1,
+h2 {
+  color: #66bfbf;
 }
 
 h3 {
   font-family: "Montserrat", sans-serif;
 }
 
-h3, a {
-    color: #11999E;
+h3,
+a {
+  color: #11999e;
 }
 
 .top-container {
@@ -53,18 +55,19 @@ h3, a {
 }
 */
 .profile-p {
+  margin-top: 50px;
   max-height: 100%;
   max-width: 200px;
 }
 
 .overthinking {
-    max-height: 100%;
-    max-width: 150px;
+  max-height: 100%;
+  max-width: 150px;
 }
 
 .weightlifting {
-    max-height: 100%;
-    max-width: 150px;
+  max-height: 100%;
+  max-width: 150px;
 }
 /*
 .bottom-container {
@@ -73,5 +76,3 @@ h3, a {
   width: 200px;
 }
 */
-
-
