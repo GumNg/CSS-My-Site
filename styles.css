@@ -42,6 +42,7 @@ a {
   color: #11999e;
 }
 
+
 .top-container {
   background-color: #e9efc0;
   position: relative;
@@ -68,6 +69,12 @@ a {
 .weightlifting {
   max-height: 100%;
   max-width: 150px;
+}
+
+.skill-row {
+  margin: 100px auto;
+  width: 50%;
+  text-align: left;
 }
 /*
 .bottom-container {
