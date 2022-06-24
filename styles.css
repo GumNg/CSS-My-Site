@@ -123,6 +123,11 @@ a {
 
 .bottom-container {
   background-color:  #66BFBF;
+  padding: 50px;
+}
+
+.footer-link {
+  margin: 30px;
 }
 
 .tm {
