@@ -33,6 +33,14 @@ h2 {
   color: #66bfbf;
 }
 
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 10px;
+  color: #EAF6F6;
+  width: 10%;
+}
+
 h3 {
   font-family: "Montserrat", sans-serif;
 }
