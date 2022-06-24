@@ -52,6 +52,9 @@ a {
   color: #11999e;
 }
 
+p {
+  line-height: 2;
+}
 
 .top-container {
   background-color: #e9efc0;
@@ -92,12 +95,10 @@ a {
   margin: 100px auto;
   width: 50%;
   text-align: left;
-  line-height: 2;
 }
 
 .contact-me {
   margin: 100px auto;
-  line-height: 2;
   width: 50%;
 }
 
