@@ -62,13 +62,11 @@ a {
 }
 
 .overthinking {
-  max-height: 100%;
-  max-width: 150px;
+  width: 25%;
 }
 
 .weightlifting {
-  max-height: 100%;
-  max-width: 150px;
+  width: 25%;
 }
 
 .skill-row {
